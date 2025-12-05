@@ -1,113 +1,83 @@
-# 🚀 **Gerenciador de Tarefas – README Surreal e Interativo**
-
+<!-- 🌟 PERFIL PESSOAL GITHUB README -->
 
 <div align="center">
 
+# 👨🏻‍💻 **Matheus Alexandre**
+### Desenvolvedor Front-End • Criador de Experiências Digitais • Apaixonado por Tecnologia
 
-# ✨ **Gerenciador de Tarefas**
-### _Organize. Simplifique. Evolua._
+<img src="https://img.shields.io/badge/Code-React-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Design-UI%2FUX-purple?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Status-Building%20My%20Future-yellow?style=for-the-badge" />
 
-
-<img src="https://img.shields.io/badge/Status-Ativo-brightgreen" />
-<img src="https://img.shields.io/badge/React-18-blue" />
-<img src="https://img.shields.io/badge/Node.js-LTS-green" />
-
+"**Transformando ideias em interfaces poderosas**"
 
 </div>
 
+---
+
+## 🚀 **Sobre mim**
+Sou um desenvolvedor apaixonado por **criar interfaces modernas**, funcionais e cheias de vida. Meu foco principal é o **Front-End**, mas estou sempre explorando novas tecnologias, frameworks e maneiras de tornar a experiência do usuário impecável.
+
+💡 _Acredito que cada projeto é uma chance de evoluir._
 
 ---
 
+## 🛠️ **Stack Principal**
 
-## 🎯 **Sobre o Projeto**
-O **Gerenciador de Tarefas** é uma aplicação desenvolvida para ajudar pessoas que buscam mais **organização, produtividade e clareza** no seu dia a dia. Criado com foco em performance e experiência do usuário, o projeto oferece recursos modernos, rápidos e intuitivos.
+**Front-End**:
+- ⚛️ React.js (Hooks, Context, Vite)
+- 🎨 Bootstrap / React Bootstrap
+- 🌀 TailwindCSS
+- ✨ Framer Motion (animações)
 
-
----
-
-
-## 🔥 **Destaques do Projeto**
-✨ Interface moderna e responsiva <br/>
-⚡ Atualizações em tempo real <br/>
-📦 Componentização inteligente (design escalável) <br/>
-🎨 Design limpo e agradável de usar <br/>
-📊 Controle total sobre suas tarefas <br/>
-
+**Ferramentas**:
+- 🧰 Git & GitHub
+- 📐 Figma
+- 🌐 Vite
+- ⚙️ Node.js
 
 ---
 
-
-## 🧱 **Tecnologias Utilizadas**
-- **React.js (Vite)** ⚛️
-- **React Bootstrap / Bootstrap** 🎨
-- **JavaScript ES6+** 🟨
-- **Context API / Hooks** 🪝
-- **LocalStorage** 💾
-- **Framer Motion (animações suaves)** ✨
-
+## 🔥 **O que estou fazendo agora**
+- 🚧 Construindo projetos para portfólio
+- 📚 Evoluindo em React e animações avançadas
+- 🎯 Aprendendo boas práticas de arquitetura no front
+- 📰 Acompanhando tendências da área
 
 ---
 
+## 🧩 **Meus Projetos Favoritos**
+🔗 **Gerenciador de Tarefas** – Interface moderna, responsiva e animada  
+🔗 **HipoZero** – Estrutura de código estudada e apresentada  
+🔗 Projetos pessoais em constante evolução…
 
-## 🧭 **Como Executar o Projeto**
-```bash
-# 1. Clone o repositório
-$ git clone https://github.com/matheusalexandredev/Gerenciador-de-Tarefas
+> Quer ver mais? Explore meus repositórios 👇
 
+---
 
-# 2. Acesse a pasta
-$ cd Gerenciador-de-Tarefas
+## 📊 **Meus Status no GitHub**
+(Ative após configurar no GitHub: `github-readme-stats`)
 
-
-# 3. Instale as dependências
-$ npm install
-
-
-# 4. Rode o projeto
-$ npm run dev
+```md
+![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusalexandredev&show_icons=true&theme=tokyonight)
 ```
-O projeto irá iniciar automaticamente no navegador.
 
-
----
-
-
-## 📸 **Preview**
-> _Uma experiência visual moderna e fluida para gerenciar suas atividades._
-
-
-🔗 **Em breve: adicionar GIF ou screenshot do projeto!**
-
-
----
-
-
-## 🧩 **Estrutura do Projeto**
+```md
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusalexandredev&layout=compact&theme=tokyonight)
 ```
-📁 src/
-├── 📁 components/
-│ ├── layout/ # Sidebar, Header
-│ ├── dashboard/ # Cards e widgets do dashboard
-│ └── tasks/ # Componentes de tarefas
-├── 📁 pages/ # Páginas gerais
-├── App.jsx
-└── main.jsx
-```
----
-
-
-## 🎮 **Funcionalidades Principais**
-- ✔️ Criar novas tarefas
-- ✔️ Editar tarefas existentes
-- ✔️ Marcar tarefas como concluídas
-- ✔️ Excluir tarefas
-- ✔️ Ver progresso geral
-- ✔️ Interface com feedback visual
-
 
 ---
 
+## 🌎 **Onde me encontrar**
+- 💼 **LinkedIn:** (adicione seu link) 
+- 💻 **Portfólio:** em construção…
+- 📧 **Email:** (adicione seu email)
 
-## 🧙‍♂️ **Modo Ultra Interativo: Ferramentas Especiais**
-> Ative essa parte quando quiser surpreender recrutadores 🤯
+---
+
+<div align="center">
+
+### ⭐ _Se gostou do que viu, deixe uma estrela nos meus repositórios!_
+### 🚀 _Cada estrela me motiva a continuar evoluindo!_
+
 </div>
