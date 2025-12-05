@@ -2,82 +2,86 @@
 
 <div align="center">
 
-# 👨🏻‍💻 **Matheus Alexandre**
-### Desenvolvedor Front-End • Criador de Experiências Digitais • Apaixonado por Tecnologia
+# 👨🏻‍💻 **Matheus Silva**
+### Desenvolvedor Back-End • JavaScript • APIs • Sistemas Escaláveis
 
-<img src="https://img.shields.io/badge/Code-React-blue?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Design-UI%2FUX-purple?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Status-Building%20My%20Future-yellow?style=for-the-badge" />
+<img src="https://img.shields.io/badge/BackEnd-JavaScript-yellow?style=for-the-badge" />
+<img src="https://img.shields.io/badge/FrontEnd-HTML%20%7C%20CSS%20%7C%20Tailwind%20%7C%20Bootstrap-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Status-Evoluindo%20Todos%20os%20Dias-green?style=for-the-badge" />
 
-"**Transformando ideias em interfaces poderosas**"
+"**Construindo o futuro uma API por vez**"
 
 </div>
 
 ---
 
 ## 🚀 **Sobre mim**
-Sou um desenvolvedor apaixonado por **criar interfaces modernas**, funcionais e cheias de vida. Meu foco principal é o **Front-End**, mas estou sempre explorando novas tecnologias, frameworks e maneiras de tornar a experiência do usuário impecável.
+Sou um desenvolvedor focado em **Back-End**, criando APIs seguras, rápidas e organizadas usando **JavaScript**.  
+Ainda atuo no **Front-End**, sempre mantendo bons padrões de interface com HTML, CSS, Tailwind e Bootstrap.
 
-💡 _Acredito que cada projeto é uma chance de evoluir._
-
----
-
-## 🛠️ **Stack Principal**
-
-**Front-End**:
-- ⚛️ React.js (Hooks, Context, Vite)
-- 🎨 Bootstrap / React Bootstrap
-- 🌀 TailwindCSS
-- ✨ Framer Motion (animações)
-
-**Ferramentas**:
-- 🧰 Git & GitHub
-- 📐 Figma
-- 🌐 Vite
-- ⚙️ Node.js
+💡 _Acredito que código limpo e escalável muda tudo._
 
 ---
 
-## 🔥 **O que estou fazendo agora**
-- 🚧 Construindo projetos para portfólio
-- 📚 Evoluindo em React e animações avançadas
-- 🎯 Aprendendo boas práticas de arquitetura no front
-- 📰 Acompanhando tendências da área
+## 🛠️ **Stack Atual**
+
+### 🖥️ Back-End
+- ⚙️ **JavaScript (Node.js)**
+- 🧩 **APIs REST**
+- 📦 **Express.js**
+- 🗄️ **Banco de Dados (MySQL / MongoDB)**
+- 🔐 Boas práticas: arquitetura, camadas, rotas, services
+
+### 🎨 Front-End
+- 🧱 HTML5
+- 🎨 CSS3
+- 🌬️ TailwindCSS
+- 🟦 Bootstrap
+
+### 🧰 Ferramentas
+- Git & GitHub
+- Postman / Insomnia
+- VS Code
+- Figma (apoio visual)
 
 ---
 
-## 🧩 **Meus Projetos Favoritos**
-🔗 **Gerenciador de Tarefas** – Interface moderna, responsiva e animada  
-🔗 **HipoZero** – Estrutura de código estudada e apresentada  
-🔗 Projetos pessoais em constante evolução…
-
-> Quer ver mais? Explore meus repositórios 👇
+## 🔥 **Atualmente Estou**
+- Construindo APIs do zero
+- Aprofundando Node.js
+- Estudando Clean Architecture
+- Criando interfaces limpas com Tailwind
 
 ---
 
-## 📊 **Meus Status no GitHub**
-(Ative após configurar no GitHub: `github-readme-stats`)
+## 🧩 **Projetos em Destaque**
+🔗 **Gerenciador de Tarefas** – Evolução do meu aprendizado fullstack  
+🔗 Projetos Back-End (APIs) — novos em breve
 
+> Explore meus repositórios abaixo 👇
+
+---
+
+## 📊 **Status no GitHub**
 ```md
 ![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusalexandredev&show_icons=true&theme=tokyonight)
 ```
-
 ```md
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusalexandredev&layout=compact&theme=tokyonight)
 ```
 
 ---
 
-## 🌎 **Onde me encontrar**
-- 💼 **LinkedIn:** (adicione seu link) 
-- 💻 **Portfólio:** em construção…
-- 📧 **Email:** (adicione seu email)
+## 🌎 **Contato**
+- 💼 LinkedIn: (adicione o link)
+- 📧 Email: (adicione o email)
+- 💻 Portfólio: em construção…
 
 ---
 
 <div align="center">
 
-### ⭐ _Se gostou do que viu, deixe uma estrela nos meus repositórios!_
-### 🚀 _Cada estrela me motiva a continuar evoluindo!_
+### ⭐ _Se curtir meus repositórios, deixe uma estrela!_
+### 🚀 _Cada estrela é um impulso na minha jornada._
 
 </div>
