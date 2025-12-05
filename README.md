@@ -23,8 +23,6 @@ Ainda atuo no **Front-End**, sempre mantendo bons padrões de interface com HTML
 
 ---
 
-## 🛠️ **Stack Atual**
-
 ### 🖥️ Back-End
 - ⚙️ **JavaScript (Node.js)**
 - 🧩 **APIs REST**
