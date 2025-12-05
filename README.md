@@ -57,15 +57,6 @@ Ainda atuo no **Front-End**, sempre mantendo bons padrões de interface com HTML
 
 ---
 
-## 📊 **Status no GitHub**
-```md
-![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusalexandredev&show_icons=true&theme=tokyonight)
-```
-```md
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusalexandredev&layout=compact&theme=tokyonight)
-```
-
----
 
 ## 🌎 **Contato**
 - 💼 LinkedIn: ([adicione o link](https://www.linkedin.com/in/matheus-alexandre-49a659232/))
