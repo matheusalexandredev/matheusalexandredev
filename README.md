@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 👨🏻‍💻 **Matheus Silva**
+# 👨🏻‍💻 **Matheus Alexandre**
 ### Desenvolvedor Back-End • JavaScript • APIs • Sistemas Escaláveis
 
 <img src="https://img.shields.io/badge/BackEnd-JavaScript-yellow?style=for-the-badge" />
