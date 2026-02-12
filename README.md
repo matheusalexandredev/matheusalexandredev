@@ -25,7 +25,6 @@ Ainda atuo no **Front-End**, sempre mantendo bons padrões de interface com HTML
 
 ### 🖥️ Back-End
 - ⚙️ **JavaScript (Node.js)**
-- 🧩 **APIs REST**
 - 🗄️ **Banco de Dados (MySQL / MongoDB)**
 - 🔐 Boas práticas: arquitetura, camadas, rotas, services
 
@@ -38,23 +37,8 @@ Ainda atuo no **Front-End**, sempre mantendo bons padrões de interface com HTML
 ### 🧰 Ferramentas
 - Git & GitHub
 - VS Code
-- Figma (apoio visual)
 
 ---
-
-## 🔥 **Atualmente Estou**
-- Aprofundando Node.js
-- Estudando Clean Architecture
-- Criando interfaces limpas com Tailwind
-
----
-
-## 🧩 **Projetos em Destaque**
-🔗 **Gerenciador de Tarefas** – Evolução do meu aprendizado fullstack  
-
-
----
-
 
 ## 🌎 **Contato**
 - 💼 LinkedIn: (https://www.linkedin.com/in/matheus-alexandre-49a659232/)
