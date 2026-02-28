@@ -9,7 +9,7 @@
 <img src="https://img.shields.io/badge/FrontEnd-HTML%20%7C%20CSS%20%7C%20Tailwind%20%7C%20Bootstrap-blue?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Status-Evoluindo%20Todos%20os%20Dias-green?style=for-the-badge" />
 
-"**Construindo o futuro**"
+
 
 </div>
 
