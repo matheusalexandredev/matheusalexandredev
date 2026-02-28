@@ -18,25 +18,7 @@
 ## 🚀 **Sobre mim**
 Sou um desenvolvedor focado em **Back-End**, criando APIs seguras, rápidas e organizadas usando **JavaScript**.  
 Ainda atuo no **Front-End**, sempre mantendo bons padrões de interface com HTML, CSS, Tailwind e Bootstrap.
-
-💡 _Acredito que código limpo e escalável muda tudo._
-
----
-
-### 🖥️ Back-End
-- ⚙️ **JavaScript (Node.js)**
-- 🗄️ **Banco de Dados (MySQL / MongoDB)**
-- 🔐 Boas práticas: arquitetura, camadas, rotas, services
-
-### 🎨 Front-End
-- 🧱 HTML5
-- 🎨 CSS3
-- 🌬️ TailwindCSS
-- 🟦 Bootstrap
-
-### 🧰 Ferramentas
-- Git & GitHub
-- VS Code
+💡 
 
 ---
 
