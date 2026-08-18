@@ -25,7 +25,6 @@ Ainda atuo no **Front-End**, sempre mantendo bons padrões de interface com HTML
 ## 🌎 **Contato**
 - 💼 LinkedIn: (https://www.linkedin.com/in/matheus-alexandre-49a659232/)
 - 📧 Email: (matheusalexandre.dev@gmail.com)
-- 💻 Portfólio: em construção…
 
 ---
 
